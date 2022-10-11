@@ -1,0 +1,57 @@
+
+.name h1 { 
+    text-align: center;
+    background-color: blueviolet;
+    
+}
+.name h2{
+    text-align: center;
+    
+}
+.name img{
+    width: 25%;
+    margin: auto;
+    display: flex;
+   
+}
+.hobby h3{
+text-align: left;
+color: darkgreen;
+background-color: chartreuse;
+}
+.hobby h4{
+    text-align: center;
+    color: aqua;
+    background-color: darkblue;
+}
+.hobby h5{
+    text-align: left;
+    color: chocolate;
+    background-color: burlywood;
+}
+.hobby img{
+    width: 25%;
+    margin: auto;
+    display: grid;
+}
+.click{
+    text-align: center;
+}
+.click button
+{
+   
+   margin: 500 px;
+   
+}
+.attention h3
+{
+    color: deeppink;
+}
+.attention h4{
+    color: blueviolet;
+    text-align: center;
+}
+.attention h5{
+    color: crimson;
+}
+
